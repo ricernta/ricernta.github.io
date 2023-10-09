@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Bolong Zhou"
-  avatar           : "profile.png"
-  bio              : "PhD student in Civil Engineering (Transportation), the Hong Kong University of Science and Technology."
+  avatar           : "ZHOU Bolong.png"
+  bio              : "PhD student\nCivil Engineering (Transportation)\nthe Hong Kong University of Science and Technology"
   location         : "Hong Kong"
   employer         :
   pubmed           : 
-  googlescholar    : ""
-  email            :
-  researchgate     : ""
+  googlescholar    : #""
+  email            : "mailto:bzhouam@connect.ust.hk"
+  researchgate     : "https://www.researchgate.net/profile/Bolong-Zhou"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0004-5580-613X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
