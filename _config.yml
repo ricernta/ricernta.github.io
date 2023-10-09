@@ -9,11 +9,13 @@
 locale                   : "en-US"
 title                    : "Bolong Zhou / Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Bolong Zhou"
+description              : &description "PhD student"
+description              : &description "Civil Engineering (Transportation)"
+description              : &description "the Hong Kong University of Science and Technology"
+url                      : https://ricernta.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "ricernta/ricernta.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,15 +83,13 @@ analytics:
 # Site Author
 author:
   name                     : &name "Bolong Zhou"
-  description              : &description "PhD student"
-  description              : &description "Civil Engineering (Transportation)"
-  description              : &description "the Hong Kong University of Science and Technology"
+
   bio              : |
     PhD student <br>
     Civil Engineering (Transportation) <br>
     the Hong Kong University of Science and Technology <br>
   
-  avatar           : "ZHOU Bolong.png"
+  avatar           : "ZHOUBolong.png"
 #  bio              : "PhD student\nCivil Engineering (Transportation)\nthe Hong Kong University of Science and Technology"
   location         : "Hong Kong"
   employer         :
