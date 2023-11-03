@@ -19,5 +19,5 @@ Research Interests
 
 Selected Working Papers
 ======
-- **Zhou, B.**, Liu, W., Yang, H. Unmanned aerial vehicle service network design for urban monitoring.
+- **Zhou, B.**, Liu, W., Yang, H. Optimizing the Scheduling of Urban Subway Inspection Services Using UAVs.
 
