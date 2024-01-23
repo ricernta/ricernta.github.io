@@ -14,7 +14,7 @@ Mr. Bolong Zhou is currently a second-year PhD student in Civil Engineering (Tra
 Research Interests
 ======
 - Transport Network Modeling and Optimization
-- Aviation and Rail System Modelling
+- Aviation and Rail System Modelling and Analysis
 - UAV Applications in Smart Transport and Logistics
 
 Selected Working Papers
