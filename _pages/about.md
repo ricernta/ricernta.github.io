@@ -20,6 +20,6 @@ Research Interests
 
 Selected Working Papers
 ======
-- **Zhou, B.**, Liu, W., Yang, H. Optimizing the Scheduling of Urban Subway Inspection Services Using UAVs.
+- **Zhou, B.**, Zeng, W., Liu, W., Yang, H. Optimizing the schedule of UAV-assisted urban subway inspection services.
 
 
