@@ -21,5 +21,7 @@ Research Interests
 Selected Working Papers
 ======
 - **Zhou, B.**, Zeng, W., Liu, W., Yang, H. Scheduling UAV-assisted urban subway inspection services.
-
+- **Zhou, B.**, Zeng, W., Yang, H. Enhancing Urban Logistics: UAV–UGV Integrated Delivery Network Design.
+- **Zhou, B.**, Sugishita, K., Hanaoka. S., Yang, H. Unravelling Alternate Airport Patterns in China's Flight Data: A Comprehensive Analysis of Diverted Landings.
+ 
 
