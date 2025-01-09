@@ -17,6 +17,7 @@ Research Interests
 - Transport Network Modelling and Optimization
 - Airline and Airport Operation Analysis
 - UAV Applications in Smart Transport and Logistics
+- Low-altitude Airspace Management
 
 Selected Working Papers
 ======
