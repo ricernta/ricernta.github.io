@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Mr. Bolong Zhou is currently a PhD candidate in Civil Engineering (Transportation) at [the Hong Kong University of Science and Technology](https://hkust.edu.hk/), under the supervision of  [Prof. Hai Yang](http://cehyang.people.ust.hk/). In 2022, Mr. Zhou obtained his B.Eng. degree in Aviation Engineering with a minor in Applied Mathematics from [the Hong Kong Polytechnic University](https://www.polyu.edu.hk/), graduating with first-class honors. He has been recognized for his academic excellence and received the HKSAR Government Scholarship in 2019/20, 2020/21, and 2021/22. Furthermore, he was awarded the Hong Kong PhD Fellowship since 2022/23.
+Mr. Bolong Zhou is currently a PhD candidate in Civil Engineering (Transportation) at [the Hong Kong University of Science and Technology](https://hkust.edu.hk/), under the supervision of  [Prof. Hai Yang](http://cehyang.people.ust.hk/). In 2022, Mr. Zhou obtained his B.Eng. degree in Aviation Engineering with a minor in Applied Mathematics from [the Hong Kong Polytechnic University](https://www.polyu.edu.hk/), graduating with first-class honors. He has been recognized for his academic excellence and received the HKSAR Government Scholarship in 2019/20, 2020/21, and 2021/22. Furthermore, he was awarded the Hong Kong PhD Fellowship.
 
 
 Research Interests
