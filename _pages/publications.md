@@ -28,4 +28,3 @@ Conference Presentations
 - **Zhou, B.**, Liu, W., Yang, H. (2023) Unmanned aerial vehicle service network design for urban monitoring. *26th ATRS World Conference (ATRS2023)*, Kobe, Japan, 1-4 July 2023.
 - **Zhou, B.**, Liu, W., Yang, H. (2023) Unmanned aerial vehicle service network design for urban monitoring. *9th International Symposium on Transportation Data & Modelling (ISTDM2023)*, Ispra, Italy, 19-22 June 2023.
 - **Zhou, B.**, Liu, W., Yang, H. (2023) Unmanned aerial vehicle service network design for urban monitoring. *The 13th Production and Operations Management Society - Hong Kong Chapter International Conference (POMS-HK 2023)*, Hong Kong, 7-8 January 2023.
-  
