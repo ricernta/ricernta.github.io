@@ -23,5 +23,5 @@ Selected Working Papers
 ======
 - **Zhou, B.**, Zeng, W., Liu, W., Yang, H. Scheduling UAV-assisted urban subway inspection services. (**Under review, Major revision in Transportation Research Part B: Methodological.**)
 - **Zhou, B.**, Zeng, W., Yang, H. Multi-trip UAV-UGV delivery network design with release times. (**Under review**)
-- **Zhou, B.**, Sugishita, K., Hanaoka. S., Lee, E., Yang, H. Flight diversions and recovery decisions: Evidence from China. (**Under review**)
+- **Zhou, B.**, Sugishita, K., Hanaoka. S., Lee, E., Yang, H. Flight diversions and recovery decisions: Evidence from China. 
 
