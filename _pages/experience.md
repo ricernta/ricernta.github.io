@@ -14,3 +14,15 @@ redirect_from:
 * Hanyang International Winter School, [Hanyang University, Korea](https://www.hanyang.ac.kr/web/eng), 2019
 * Visiting PhD Student, Department of Transdisciplinary Science and Engineering, [Tokyo Institute of Technology, Japan](https://www.titech.ac.jp/english), 2024 (Supervisor: [Prof. HANAOKA Shinya](http://www.ide.titech.ac.jp/~hanaoka/profile.html))
 * PhD in Civil Engineering (Transportation), [the Hong Kong University of Science and Technology, Hong Kong](https://www.ust.hk/home), 2022-Now
+
+
+**Honors & Awards**
+* Best Student Paper Award, *28th ATRS World Conference, 2025*
+* Hong Kong PhD Fellowship, *HKSAR Government, 2022 - 2026*
+* UGC Research Travel Grant, *The Hong Kong University of Science and Technology, 2022/23 & 2024/25*
+* HKSAR Government Scholarship, *HKSAR Government, 2019 - 2022*
+* The Hong Kong, China - Asia-Pacific Economic Cooperation Scholarship, *HKSAR Government, 2019/20*
+* HKSAR Government Scholarship – Reaching Out Award, *HKSAR Government, 2019/20*
+* Siu Keung Service-Learning Scholarship, *The Hong Kong Polytechnic University, 2019/20*
+* FHKI Scholarship, *The Hong Kong Polytechnic University, 2019/20*
+
