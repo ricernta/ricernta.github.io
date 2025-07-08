@@ -25,3 +25,14 @@ Selected Working Papers
 - **Zhou, B.**, Zeng, W., Yang, H. Multi-trip UAV-UGV delivery network design with release times. (**Under review, Major revision in Transportation Research Part C: Emerging Technologies.**)
 - **Zhou, B.**, Sugishita, K., Hanaoka. S., Lee, E., Yang, H. Flight diversions and recovery decisions: Evidence from China. 
 
+Honors & Awards
+======
+- Best Student Paper Award, *28th ATRS World Conference, 2025*
+- Hong Kong PhD Fellowship, *HKSAR Government, 2022 - 2026*
+- UGC Research Travel Grant, *The Hong Kong University of Science and Technology, 2022/23 & 2024/25*
+- HKSAR Government Scholarship, *HKSAR Government, 2019 - 2022*
+- The Hong Kong, China - Asia-Pacific Economic Cooperation Scholarship, *HKSAR Government, 2019/20*
+- HKSAR Government Scholarship – Reaching Out Award, *HKSAR Government, 2019/20*
+- Siu Keung Service-Learning Scholarship, *The Hong Kong Polytechnic University, 2019/20*
+- FHKI Scholarship, *The Hong Kong Polytechnic University, 2019/20*
+
