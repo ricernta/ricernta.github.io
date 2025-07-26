@@ -22,4 +22,4 @@ Research Interests
 Selected Working Papers
 ======
 - **Zhou, B.**, Zeng, W., Yang, H. Multi-trip UAV-UGV delivery network design with release times. (**Under review, Major revision in Transportation Research Part C: Emerging Technologies.**)
-- **Zhou, B.**, Sugishita, K., Hanaoka. S., Lee, E., Yang, H. Flight diversions and recovery decisions: Evidence from China. 
+- **Zhou, B.**, Sugishita, K., Hanaoka. S., Lee, E., Yang, H. Flight diversions and recovery decisions: Evidence from China. (**Under review in Transportation Research Part A: Policy and Practice.**)
