@@ -17,6 +17,7 @@ redirect_from:
 
 
 **Honors & Awards**
+* Honorable Mention, *the 3rd Transportation Management Technology Competition at CTS2025, 2025*
 * Best Student Paper Award, *28th ATRS World Conference, 2025*
 * Hong Kong PhD Fellowship, *HKSAR Government, 2022 - 2026*
 * UGC Research Travel Grant, *The Hong Kong University of Science and Technology, 2022/23 & 2024/25*
