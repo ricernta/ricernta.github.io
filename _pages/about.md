@@ -23,3 +23,4 @@ Selected Working Papers
 ======
 - **Zhou, B.**, Zeng, W., Yang, H. Multi-trip UAV-UGV delivery network design with release times. (**Under review, Second-round Major revision in Transportation Research Part C: Emerging Technologies.**)
 - **Zhou, B.**, Sugishita, K., Hanaoka. S., Lee, E., Yang, H. Flight diversions and recovery decisions: Evidence from China. (**Under review in Transportation Research Part A: Policy and Practice.**)
+- Lin, Y, **Zhou, B.<sup>*</sup>**, Yang, H. UAV-UGV Hybrid Network Design for Routine Deliveries and Emergency Logistics.
