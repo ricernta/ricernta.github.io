@@ -11,5 +11,5 @@ At the Hong Kong University of Science and Technology (Teaching Assistant), 2022
 * CIVL 3610 Traffic and Transportation Engineering (2024 Spring)
 * CIVL 5620	Travel Demand Analysis (2024 Fall)
 * CIEM 5620	Travel Demand Analysis (2024 Fall)
-* CIVL 4910 Civil and Environmental Engineering Final Year Project (2024 - 2025: LO Yuk Yi Jessica, KWOK Kai Yiu; 2025 - 2026: SO Hung Wai, WONG, Hoi Chun, YU, Shing Hon)
+* CIVL 4910 Civil and Environmental Engineering Final Year Project (2024 - 2025: LO Yuk Yi Jessica, KWOK Kai Yiu; 2025 - 2026: NG Man Ho, SO Hung Wai, YU, Shing Hon)
 * CIEM 6980 MSc Project  (2024 - 2025: ZONG Hongrui)
