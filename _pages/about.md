@@ -21,6 +21,5 @@ Research Interests
 
 Selected Working Papers
 ======
-- **Zhou, B.**, Sugishita, K., Hanaoka. S., Lee, E., Yang, H. Flight diversions and recovery decisions: Evidence from China. (**Under review, Major revision in Transportation Research Part A: Policy and Practice.**)
 - **Zhou, B.**, Zhang, Z., Lee, E., Yang, H. Meal delivery equilibrium with drone and rider.
 - Lin, Y., **Zhou, B.**, Yang, H. UAV-UGV hybrid network design for routine deliveries and emergency logistics.
