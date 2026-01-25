@@ -17,7 +17,7 @@ redirect_from:
 * BEng (Hons) in Aviation Engineering, Minor in Applied Mathematics, [the Hong Kong Polytechnic University, Hong Kong](https://www.polyu.edu.hk/), 2018-2022
 
 
-**Honors & Awards**
+**Selected Awards**
 * Honorable Mention, *the 3rd Transportation Management Technology Competition at CTS2025, 2025*
 * Best Student Paper Award, *28th ATRS World Conference, 2025*
 * Hong Kong PhD Fellowship, *HKSAR Government, 2022 - 2026*
