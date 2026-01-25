@@ -14,12 +14,21 @@ Mr. Bolong Zhou is currently a PhD candidate in Civil Engineering (Transportatio
 
 Research Interests
 ======
-- Transport Network Modelling and Optimization
+**Research Problems**
+- Multimodal Transport Network Modeling and Analytics
 - Airline and Airport Operation Analysis
-- UAV Applications in Smart Transport and Logistics
-- Low-altitude Airspace Management
+- Electrified, Automated, and Shared Mobility
+- Urban Air Mobility and Logistics
+
+**Solution Methods**
+- Branch-and-cut, Branch-and-price, Bender's decomposition
+- Matheuristics
+- Stochastic programming
+- Reinforcement learning
+- Game theory approaches
 
 Selected Working Papers
 ======
+- **Zhou, B.**, Ola Jabalib, Wei Liu, Tommaso Schettini, Hai Yang. Split visit team orienteering problems with varying profit: Models and a branch-and-cut algorithm.
 - **Zhou, B.**, Zhang, Z., Lee, E., Yang, H. Meal delivery equilibrium with drone and rider.
 - Lin, Y., **Zhou, B.**, Yang, H. UAV-UGV hybrid network design for routine deliveries and emergency logistics.
