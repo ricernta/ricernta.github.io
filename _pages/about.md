@@ -29,6 +29,6 @@ Research Interests
 
 Selected Working Papers
 ======
-- **Zhou, B.**, Ola Jabali, Wei Liu, Tommaso Schettini, Hai Yang. Split visit team orienteering problems with varying profit: Models and a branch-and-cut algorithm.
+- **Zhou, B.**, Jabali. O., Liu, W., Schettini, T., Yang, H. Split visit team orienteering problems with varying profit: Models and a branch-and-cut algorithm.
 - **Zhou, B.**, Zhang, Z., Lee, E., Yang, H. Meal delivery equilibrium with drone and rider.
 - Lin, Y., **Zhou, B.**, Yang, H. UAV-UGV hybrid network design for routine deliveries and emergency logistics.
