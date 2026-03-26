@@ -27,6 +27,7 @@ Conference Presentations
 ----------
 
 - Analytics for X 2025, National University of Singapore, Singapore, 26–27 September 2025.
+- The 16th International Conference of Eastern Asia Society for Transportation Studies (EASTS), Surakarta, Indonesia, 1-4 Sep 2025.
 - 28th Air Transport Research Society World Conference (ATRS25), Hong Kong, 1–4 July 2025. **(Winner of Best Student Paper Award)**
 - The 104th Transportation Research Board Annual Meeting (TRB), Washington D.C., US, 5–9 January 2025.
 - The 28th International Conference of Hong Kong Society for Transportation Studies (HKSTS), Hong Kong, 9–10 December 2024.
