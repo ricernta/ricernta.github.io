@@ -18,7 +18,7 @@ redirect_from:
 
 
 **Selected Awards**
-* RedBird Academic Excellence Award, * The Hong Kong University of Science and Technology, 2025/26*
+* RedBird Academic Excellence Award, *The Hong Kong University of Science and Technology, 2025/26*
 * Honorable Mention, *the 3rd Transportation Management Technology Competition at CTS2025, 2025*
 * Best Student Paper Award, *28th ATRS World Conference, 2025*
 * Hong Kong PhD Fellowship, *HKSAR Government, 2022 - 2026*
