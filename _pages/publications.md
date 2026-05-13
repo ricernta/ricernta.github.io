@@ -25,7 +25,7 @@ Journal Publication
 
 Conference Presentations
 ----------
-
+- 2026 Optimization Days, HEC Montréal, Montréal, Canada, 11-13 May 2026.
 - Analytics for X 2025, National University of Singapore, Singapore, 26–27 September 2025.
 - The 16th International Conference of Eastern Asia Society for Transportation Studies (EASTS), Surakarta, Indonesia, 1-4 Sep 2025.
 - 28th Air Transport Research Society World Conference (ATRS25), Hong Kong, 1–4 July 2025. **(Winner of Best Student Paper Award)**
