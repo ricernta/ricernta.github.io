@@ -32,5 +32,5 @@ Selected Working Papers
 - **Zhou, B.**, Jabali. O., Liu, W., Schettini, T., Yang, H. Team orienteering problems with split visit and varying profit: Models and a branch-and-cut algorithm.
 - **Zhou, B.**, Zhang, Z., Lee, E., Yang, H. Meal delivery equilibrium with drone and rider.
 - Lin, Y., **Zhou, B.**, Sun, X., Yang, H. Truck-UAV hybrid delivery network design for dual-services: A two-stage stochastic optimization approach.
-- Lin, Y., **Zhou, B.**, Wang, S., Li, Y. A Markov-enhanced MILP for urban UAV monitoring and charging operations with delay propagation.
+- Lin, Y., **Zhou, B.**, Wang, S., Li, Y. Robust multi-trip multi-stop UAV scheduling for urban monitoring under service-time uncertainty.
 
