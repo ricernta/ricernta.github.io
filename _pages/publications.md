@@ -25,6 +25,7 @@ Journal Publication
 
 Conference Presentations
 ----------
+- 29th Air Transport Research Society World Conference (ATRS2026), Beijing, China, 1–4 July 2026.
 - 2026 Optimization Days, HEC Montréal, Montréal, Canada, 11-13 May 2026.
 - Analytics for X 2025, National University of Singapore, Singapore, 26–27 September 2025.
 - The 16th International Conference of Eastern Asia Society for Transportation Studies (EASTS), Surakarta, Indonesia, 1-4 Sep 2025.
