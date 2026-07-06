@@ -22,7 +22,7 @@ redirect_from:
 * Best Student Paper Award, *28th ATRS World Conference, 2025*
 * RedBird Academic Excellence Award, *The Hong Kong University of Science and Technology, 2022/23 & 2025/26*
 * Honorable Mention, *the 3rd Transportation Management Technology Competition at CTS2025, 2025*
-* UGC Research Travel Grant, *The Hong Kong University of Science and Technology, 2022/23 & 2024/25*
+* UGC Research Travel Grant, *The Hong Kong University of Science and Technology, 2022/23, 2024/25 & 2025/26*
 * HKSAR Government Scholarship, *HKSAR Government, 2019 - 2022*
 * The Hong Kong, China - Asia-Pacific Economic Cooperation Scholarship, *HKSAR Government, 2019/20*
 * HKSAR Government Scholarship – Reaching Out Award, *HKSAR Government, 2019/20*
