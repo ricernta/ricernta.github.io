@@ -22,6 +22,7 @@ redirect_from:
 
 **Selected Awards**
 * Hong Kong PhD Fellowship, *HKSAR Government, 2022 - 2026*
+* Best Paper Award, *the 17th International Workshop on Computational Transportation Science, 2026*
 * Best Student Paper Award, *28th ATRS World Conference, 2025*
 * RedBird Academic Excellence Award, *The Hong Kong University of Science and Technology, 2022/23 & 2025/26*
 * Honorable Mention, *the 3rd Transportation Management Technology Competition at CTS2025, 2025*
