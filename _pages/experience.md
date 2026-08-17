@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 **Working Experience**
-* Research Associate, [the Hong Kong University of Science and Technology, Hong Kong](https://www.ust.hk/home), 2026-Now
+* Research Associate, [the Hong Kong University of Science and Technology, Hong Kong](https://www.ust.hk/home), 2026-Now (Supervisor: [Prof. Hai Yang](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=hai-yang-cehyang))
 
 **Education**
 * PhD in Civil Engineering (Transportation), [the Hong Kong University of Science and Technology, Hong Kong](https://www.ust.hk/home), 2022-2026
