@@ -31,9 +31,10 @@ Selected Working Papers
 ======
 - **Zhou, B.**, Jabali. O., Liu, W., Schettini, T., Yang, H. The team orienteering problem with split visits and varying profit: Models and a branch-and-cut algorithm.
 - **Zhou, B.**, Zhang, Z., Lee, E., Yang, H., Liu, W. Equilibrium and cannibalization in dual-mode delivery platforms.
-- Lin, Y., **Zhou, B.**, Wang, H., Yang, H. Group-and-match vs. route-then-insert? Order dispatching in vehicle-based dual services. (Under review at *Transportation Research Part C: Emerging Technologies*.)
-- Shi, Z., Zhang, Z., Huang, J., **Zhou, B.**, Yang, H. Beyond Willingness to Pay: Uncovering Underlying Factors for Urban Air Mobility Consideration and Adoption. (Under review at *Transportation Research Part A: Policy and Practice*.)
 - Lin, Y., **Zhou, B.**, Sun, X., Yang, H. Truck-UAV hybrid delivery network design for dual-services: A two-stage stochastic optimization approach.
+- Lin, Y., **Zhou, B.**, Wang, H., Yang, H. Group-and-match vs. route-then-insert? Order dispatching in vehicle-based dual services. (Under review at *Transportation Research Part C: Emerging Technologies*.)
+- Shi, Z., Zhang, Z., Huang, J., **Zhou, B.**, Yang, H. Beyond willingness to pay: Uncovering underlying factors for Urban Air Mobility consideration and adoption. (Under review at *Transportation Research Part A: Policy and Practice*.)
+
 
 
 
