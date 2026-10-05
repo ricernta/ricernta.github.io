@@ -30,7 +30,7 @@ Research Interests
 Selected Working Papers
 ======
 - **Zhou, B.**, Jabali. O., Liu, W., Schettini, T., Yang, H. The team orienteering problem with split visits and varying profit: Models and a branch-and-cut algorithm.
-- Lin, Y., **Zhou, B.**, Sun, X., Yang, H. Truck-UAV hybrid delivery network design for dual-services: A two-stage stochastic optimization approach.
+- Lin, Y., **Zhou, B.**, Sun, X., Yang, H. Vam-drone hybrid delivery network design for dual-services: A two-stage stochastic optimization approach.
 - Jia, Z., **Zhou, B.**, Zeng, W., Yang, H. Joint UAV mission scheduling and reusable payload sharing in multi-hub inspection networks.
 - **Zhou, B.**, Zhang, Z., Lee, E., Yang, H., Liu, W. Equilibrium and cannibalization in dual-mode delivery platforms. (Under review at *Transportation Research Part E: Logistics and Transportation Review*.)
 - Lin, Y., **Zhou, B.**, Wang, H., Yang, H. Group-and-match vs. route-then-insert? Order dispatching in vehicle-based dual services. (Under review at *Transportation Research Part C: Emerging Technologies*.)
