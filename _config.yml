@@ -10,9 +10,9 @@ locale                   : "en-US"
 title                    : "Bolong Zhou / Homepage"
 title_separator          : "-"
 name                     : &name "Dr. Bolong Zhou"
-description              : &description "Research Associate,"
-description              : &description "Department of Civil and Environmental Engineering,"
-description              : &description "The Hong Kong University of Science and Technology."
+description              : &description "Postdoctoral Fellow,"
+description              : &description "Department of Logistics and Operations Management,"
+description              : &description "HEC Montréal."
 url                      : https://ricernta.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ricernta/ricernta.github.io"
@@ -82,7 +82,7 @@ analytics:
 
 # Site Author
 author:
-  name                     : &name "Dr. Bolong Zhou"
+  name                     : &name "Bolong Zhou"
 
   bio              : |
     Research Associate, <br>
@@ -90,8 +90,8 @@ author:
     the Hong Kong University of Science and Technology. <br>
   
   avatar           : "ZHOUBolong2024.JPG"
-#  bio              : "PhD candidate\nCivil Engineering (Transportation)\nthe Hong Kong University of Science and Technology"
-  location         : "Hong Kong"
+#  bio              : "xxxx"
+  location         : "Montréal, Canada"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=W8kfwCcAAAAJ&hl=zh-CN&oi=sra"
