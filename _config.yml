@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Bolong Zhou / Homepage"
 title_separator          : "-"
-name                     : &name "Dr. Bolong Zhou"
+name                     : &name "Bolong Zhou"
 description              : &description "Postdoctoral Fellow,"
 description              : &description "Department of Logistics and Operations Management,"
 description              : &description "HEC Montréal."
@@ -82,12 +82,12 @@ analytics:
 
 # Site Author
 author:
-  name                     : &name "Bolong Zhou"
+  name                     : &name "Dr. Bolong Zhou"
 
   bio              : |
-    Research Associate, <br>
-    Department of Civil and Environmental Engineering, <br>
-    the Hong Kong University of Science and Technology. <br>
+    Postdoctoral Fellow, <br>
+    Department of Logistics and Operations Management, <br>
+    HEC Montréal. <br>
   
   avatar           : "ZHOUBolong2024.JPG"
 #  bio              : "xxxx"
