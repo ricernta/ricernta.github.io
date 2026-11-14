@@ -33,7 +33,6 @@ Selected Working Papers
 - Lin, Y., **Zhou, B.**, Sun, X., Yang, H. Van-drone hybrid delivery network design with standard and priority orders under random arrivals.
 - Jia, Z., **Zhou, B.**, Zeng, W., Yang, H. Joint UAV mission scheduling and detachable payload sharing in multi-hub inspection networks.
 - **Zhou, B.**, Zhang, Z., Lee, E., Yang, H., Liu, W. Equilibrium and cannibalization in dual-mode delivery platforms. (Under review at *Transportation Research Part E: Logistics and Transportation Review*.)
-- Yang, F., **Zhou, B.**, Zhou, X., Dai, Z., Wang, L., Wang, X., Ni, S., Qin, Y. S-ALNS: Service-structure learning for adaptive large neighborhood search in UAV-UGV delivery with release times. (Under review at *Transportation Research Part C: Emerging Technologies*.)
 - Lin, Y., **Zhou, B.**, Wang, H., Yang, H. Group-and-match vs. route-then-insert? Order dispatching in vehicle-based dual services. (Under review at *Transportation Research Part C: Emerging Technologies*.)
 - Shi, Z., Zhang, Z., Huang, J., **Zhou, B.**, Yang, H. Beyond willingness to pay: Uncovering underlying factors for Urban Air Mobility consideration and adoption. (Under review at *Transportation Research Part A: Policy and Practice*.)
 
